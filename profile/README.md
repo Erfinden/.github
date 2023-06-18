@@ -2,4 +2,4 @@
 
 ## Who are we?
 ### We are the [MGF](https://mgf.de/)
-a school loacted in Germany, Bavaria
+A school loacted in Germany, Bavaria
