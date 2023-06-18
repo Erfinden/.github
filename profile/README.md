@@ -1,5 +1,5 @@
-## Hi there 👋
+# Hi there 👋
 
-# Who are we?
-We are the [MGF](https://mgf.de/)
+## Who are we?
+###We are the [MGF](https://mgf.de/)
 a school loacted in Germany, Bavaria
